@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>137036935779-e1tf7hv6n26f0ev18cio8jdngssjb3gj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.137036935779-e1tf7hv6n26f0ev18cio8jdngssjb3gj</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>137036935779-5fe3s6lg3e9a6krt1dc6k8u7il1hr3j7.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB7IfePzJAJKurfJmBIxB805cVEjdlkX8I</string>
+	<key>GCM_SENDER_ID</key>
+	<string>137036935779</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.seebgar.HKCoure</string>
+	<key>PROJECT_ID</key>
+	<string>cuore-usuarios</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cuore-usuarios.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:137036935779:ios:298de534d01f479f9bbe56</string>
+	<key>DATABASE_URL</key>
+	<string>https://cuore-usuarios.firebaseio.com</string>
+</dict>
+</plist>

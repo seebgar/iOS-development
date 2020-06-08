@@ -1,0 +1,6 @@
+framework module Pods_HKCoure {
+  umbrella header "Pods-HKCoure-umbrella.h"
+
+  export *
+  module * { export * }
+}
